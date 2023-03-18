@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d66db642_94f38af2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2023-03-18T13:17:43Z",
+      "side": 1,
+      "message": "Required by some legacy Xiaomi Devices. Merged by Lineage.",
+      "revId": "b86ed6e0036821b0f1411f0bb359a89900c154f5",
+      "serverId": "6e240c91-23cb-42f0-b60c-7c3c525b6cb9"
+    }
+  ]
+}
